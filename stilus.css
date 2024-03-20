@@ -1,0 +1,17 @@
+li:hover {
+    background-color: antiquewhite;
+}
+img{
+    
+    width: 30%;
+    border: 10px solid black;
+}
+.kepek{
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    gap: 50px;
+}
+.kep3{
+    margin-left: 20%;
+}
